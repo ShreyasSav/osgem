@@ -1,5 +1,7 @@
 # OSGEM: Open Source Geo-spatial Energy Modeller
+## Forked Repository
 
+This project uses a forked version of [OSGEM](Thompson, S. S. (2024). OSGEM: Open Source Geo-spatial Energy Modeller (Version 1.0) [Computer software]. https://github.com/genius487/osgem/)
 ## Scope
 
 This repository contains the source code of the Open Source Geo-spatial Energy Modeller (OSGEM), a hybrid modelling tool comprising of code from ([OSeMOSYS](http://www.osemosys.org/)), specifically from an OSeMOSYS-PuLP implementation by the [State_of_Goa](https://github.com/robertodawid/State_of_Goa)) repository, and ([OnSSET](http://www.onsset.org/)).
